@@ -1,0 +1,921 @@
+{
+  "segments": [
+    {
+      "start": 0.48,
+      "end": 2.1,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Hi, guys, and welcome"
+    },
+    {
+      "start": 3.04,
+      "end": 6.5,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "to the first episode of random neural firings, the podcast."
+    },
+    {
+      "start": 7.04,
+      "end": 7.94,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "I'm AJ."
+    },
+    {
+      "start": 8.72,
+      "end": 10.0199995,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "I'm Dan, aka"
+    },
+    {
+      "start": 10.32,
+      "end": 11.38,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "dad. Yeah."
+    },
+    {
+      "start": 12.16,
+      "end": 12.48,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And,"
+    },
+    {
+      "start": 13.795,
+      "end": 14.775001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "this is our"
+    },
+    {
+      "start": 15.315001,
+      "end": 17.415,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "attempt at starting a podcast."
+    },
+    {
+      "start": 17.795,
+      "end": 20.375,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Yeah. And so in this episode, I'm gonna try to learn"
+    },
+    {
+      "start": 21.075,
+      "end": 30.52,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "a little bit about the Sims because Ava's been kind of into the Sims. Four. The Sims four. See? Already I'm learning. Yeah. There are four versions, obviously. So So what was do you know anything about what the first version was?"
+    },
+    {
+      "start": 31.060001,
+      "end": 39.16,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Pixely. Oh, it's okay. So the graphics have just gotten better over time? Yeah. Okay. It's also been very different. I don't know much about the earlier versions,"
+    },
+    {
+      "start": 40.260002,
+      "end": 41.0,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "to be honest."
+    },
+    {
+      "start": 42.055,
+      "end": 46.635002,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Where did you do you remember where you first heard about the Sims? Like, what made you interested in playing it?"
+    },
+    {
+      "start": 47.255,
+      "end": 47.995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "No idea."
+    },
+    {
+      "start": 48.695,
+      "end": 49.195,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Okay."
+    },
+    {
+      "start": 49.975,
+      "end": 54.475,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Let's see. I was in the middle of asking you when we were talking before the show"
+    },
+    {
+      "start": 55.170002,
+      "end": 60.87,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "about how you control the Sims personalities. Like, if you can make them happy or weird or whatever. Okay."
+    },
+    {
+      "start": 61.33,
+      "end": 65.83,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "So, So what's the deal there? This? This is gonna be fun. Yeah?"
+    },
+    {
+      "start": 66.21,
+      "end": 67.19,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Yeah. Okay."
+    },
+    {
+      "start": 67.985,
+      "end": 71.90501,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Just to pull up a chair. Yeah. Pull up a pull up a spinny chair. Yes."
+    },
+    {
+      "start": 72.625,
+      "end": 75.045006,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "I'm recording this while sitting on a spinning"
+    },
+    {
+      "start": 75.425,
+      "end": 80.08501,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "spinning chair. Really the only way to record a podcast in in my opinion. Yeah. Definitely."
+    },
+    {
+      "start": 81.87,
+      "end": 91.25,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Also, we are both ADHD. Correct. Very ADHD. Correct. You're diagnosed. I'm just come on. It's kinda obvious. Yeah. And ADHD is usually genetic."
+    },
+    {
+      "start": 91.55,
+      "end": 95.95,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Yeah. Well and you were diagnosed, and then you diagnosed me. So by the transitive property of ADHD"
+    },
+    {
+      "start": 96.270004,
+      "end": 96.770004,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Mhmm."
+    },
+    {
+      "start": 97.165,
+      "end": 104.465,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Also, we're huge nerds. Yes. Also, I think the fact that we already have gone off topic is all the fruit you need that Woah. That is the case. Anyway,"
+    },
+    {
+      "start": 104.924995,
+      "end": 108.865,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Sims personalities, how do you make them? So what you do is traits."
+    },
+    {
+      "start": 109.3,
+      "end": 109.8,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Okay."
+    },
+    {
+      "start": 110.26,
+      "end": 111.72,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "And you can select ones,"
+    },
+    {
+      "start": 112.58,
+      "end": 115.159996,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "pretty funny. They range from childish to erratic"
+    },
+    {
+      "start": 115.46,
+      "end": 117.3,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "to evil to dance machine"
+    },
+    {
+      "start": 117.7,
+      "end": 130.91501,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Okay. To vegetarian. Are those all, like, on and off, or are they, like, number scales? Like I need number scales. We just select them. Okay. So it's They're either there or they're not. Okay. So you can't be, like, a one or a five or a 10 on the No. You're just either, like, cheerful"
+    },
+    {
+      "start": 132.575,
+      "end": 133.955,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "or you're not. Okay."
+    },
+    {
+      "start": 134.26001,
+      "end": 144.68001,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "What if you pick things that are contradict? Like, what if you pick, like won't let you. Oh, okay. Interesting. So so the game has a point of view on, like, what traits they're gonna go you can't make for some both childish and macabre."
+    },
+    {
+      "start": 148.065,
+      "end": 149.66500000000002,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Well, childish is only for"
+    },
+    {
+      "start": 150.38500000000002,
+      "end": 151.76500000000001,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "actually, no. It's not."
+    },
+    {
+      "start": 152.705,
+      "end": 158.485,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Well, either way, you can't do it. Gotcha. And you can make emo kids through other means, like gloomy or erratic."
+    },
+    {
+      "start": 158.785,
+      "end": 164.47999000000002,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Okay. That sounds good. Yeah. Have you ever made any Sims that have, like, particularly interesting personalities?"
+    },
+    {
+      "start": 165.25999000000002,
+      "end": 167.03999000000002,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "I don't know. No. I'm usually"
+    },
+    {
+      "start": 167.33999,
+      "end": 181.395,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "one of the normal Sims players. Okay. I've never killed off any of my Sims on full on accident. That's magnanimous of you. Yeah. When I brought that up at school Uh-huh. Kid was, like, a freaking weirdo, and I mentioned I never killed anyone my Sims."
+    },
+    {
+      "start": 193.55999999999997,
+      "end": 194.7,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "You can kill them"
+    },
+    {
+      "start": 195.15999,
+      "end": 195.89999999999998,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "via getting"
+    },
+    {
+      "start": 197.0,
+      "end": 199.42,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "eaten by a carnivorous cow plant."
+    },
+    {
+      "start": 199.755,
+      "end": 210.635,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Carnivorous cow plant. Dang. Okay. Or bad sushi. Or bad sushi. Wait. So you give them the bad sushi, and then they, what, vomit to death? No. They just die because they get poisoned. Well, it's really because,"
+    },
+    {
+      "start": 211.355,
+      "end": 216.03,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "so you know how pufferfish is very poisonous to eat? Yes. Fugu, I think. Fugu."
+    },
+    {
+      "start": 216.48999999999998,
+      "end": 218.10999999999999,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "So you can in the Sims,"
+    },
+    {
+      "start": 218.89,
+      "end": 221.85001,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "you can make Fugu. And if you have a low cooking skill"
+    },
+    {
+      "start": 222.32999999999998,
+      "end": 224.58999999999997,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "You make it wrong. And then you die."
+    },
+    {
+      "start": 225.69,
+      "end": 226.58999999999997,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "That's excellent."
+    },
+    {
+      "start": 227.10501,
+      "end": 227.60501,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Yes."
+    },
+    {
+      "start": 227.98499999999999,
+      "end": 229.60501,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Can you give people"
+    },
+    {
+      "start": 229.98499999999999,
+      "end": 231.68499999999997,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "can you kill your sims by, like,"
+    },
+    {
+      "start": 232.22501,
+      "end": 243.07999999999998,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "fleeing them out of a catapult or something? Like, what do you want to do with stuff? Or I'm guessing there are mods for that, but I don't know. That would be a cool mod to build. Yeah. That would be weird. I have no idea how how mod sims, though. Okay."
+    },
+    {
+      "start": 244.82001,
+      "end": 246.28,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "So what's been, like,"
+    },
+    {
+      "start": 246.66,
+      "end": 250.67999999999998,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "your most enjoyable night of sims playing so far? I don't know."
+    },
+    {
+      "start": 251.05999999999997,
+      "end": 253.00001999999998,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Or an an enjoyable night."
+    },
+    {
+      "start": 254.25999999999996,
+      "end": 255.16002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Well, enjoyable"
+    },
+    {
+      "start": 255.61999999999998,
+      "end": 256.76,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "one would be"
+    },
+    {
+      "start": 257.595,
+      "end": 264.79499999999996,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "first time I figured out how to use cheats. Oh, okay. Tell me about cheats. What are cheats? When you type in mother mode, which gives you 50,000,"
+    },
+    {
+      "start": 265.755,
+      "end": 268.975,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "simoleons or sim monies Okay. Instantly."
+    },
+    {
+      "start": 269.355,
+      "end": 272.41499999999996,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "And I usually type it three times at the start of every gameplay."
+    },
+    {
+      "start": 273.03999999999996,
+      "end": 282.26,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Just to load up? Mhmm. Why not. Right? Yeah. Are cheats, like is there some limit to how you can use them or how many you can Let me go through a few. Yeah. Yeah. Okay."
+    },
+    {
+      "start": 282.55999999999995,
+      "end": 285.62,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "So a good one is b b dot move objects."
+    },
+    {
+      "start": 286.17499999999995,
+      "end": 299.31499999999994,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Okay. Which basically Makes you move objects with your big butt, I assume. What? B b. No? No. All most chats most cheats start with b b. Okay. I I don't know why that's there. It just does, but here's how it works. Move objects"
+    },
+    {
+      "start": 300.255,
+      "end": 301.235,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "basically means"
+    },
+    {
+      "start": 301.55999999999995,
+      "end": 302.05999999999995,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "you"
+    },
+    {
+      "start": 303.00001999999995,
+      "end": 303.50001999999995,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "can"
+    },
+    {
+      "start": 304.91999999999996,
+      "end": 309.41999999999996,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "put any object anywhere. Like, for example, you can put a bed halfway through a wall."
+    },
+    {
+      "start": 310.04003,
+      "end": 312.78002000000004,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Woah. Okay. With move objects on."
+    },
+    {
+      "start": 313.48002999999994,
+      "end": 315.50001999999995,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "If you do that, though, can a sim,"
+    },
+    {
+      "start": 315.845,
+      "end": 319.46500000000003,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "like, only sleep on the half that's inside the wall, or how does that work?"
+    },
+    {
+      "start": 319.92499999999995,
+      "end": 326.505,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "I don't know. I mean I'm gonna try and just make, like, the most cursed sims ever. Yeah. Yeah."
+    },
+    {
+      "start": 327.04499999999996,
+      "end": 329.385,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "No furniture fully inside the house."
+    },
+    {
+      "start": 335.39,
+      "end": 342.05,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "What if you put like, can you put a toilet half in the wall and half outside the wall? No. But you could put a toilet inside a fridge."
+    },
+    {
+      "start": 342.58500000000004,
+      "end": 343.08500000000004,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Wow."
+    },
+    {
+      "start": 343.46500000000003,
+      "end": 343.96500000000003,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Okay."
+    },
+    {
+      "start": 344.745,
+      "end": 345.245,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Inside"
+    },
+    {
+      "start": 346.02500000000003,
+      "end": 346.605,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "a television."
+    },
+    {
+      "start": 347.065,
+      "end": 348.605,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Oh, the turducken of appliances."
+    },
+    {
+      "start": 348.90500000000003,
+      "end": 350.845,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "No. It's, like, because Sims need fun,"
+    },
+    {
+      "start": 352.58500000000004,
+      "end": 353.08500000000004,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "hygiene,"
+    },
+    {
+      "start": 354.92,
+      "end": 359.34000000000003,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "hunger. Oh, interesting. So they have, like, a Needs. Have you ever heard of Maslow's hierarchy?"
+    },
+    {
+      "start": 360.04,
+      "end": 369.18,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "The heck? No? No. Alright. I'm gonna show you this thing. Does it is it nerdy? A little. Yeah. So there is this guy little. There is this guy Maslow. Can't you just explain it?"
+    },
+    {
+      "start": 370.02498,
+      "end": 375.885,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Well, kind of, but it's literally a visual thing. Oh, those. I think I've heard of those. Yeah. This guy named Maslow,"
+    },
+    {
+      "start": 377.785,
+      "end": 379.485,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Maslow Maslow probably,"
+    },
+    {
+      "start": 379.945,
+      "end": 389.74998,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "came up with this thing of it's kind of like a pyramid where what do you need most and then what, you know, what needs go on top of that. And it sounds like Sims have sort of a similar"
+    },
+    {
+      "start": 390.61,
+      "end": 400.505,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "similar thing where, like, there's certain things that they need to live. It's not a hierarchy. Okay. Thank you. I'll show you. Okay. Yes. We're recording this on a computer that we're simultaneously"
+    },
+    {
+      "start": 400.805,
+      "end": 404.58500000000004,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "using to Google stuff. Yeah. I'll describe a little bit what we're looking at here."
+    },
+    {
+      "start": 406.325,
+      "end": 407.705,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Sims four needs"
+    },
+    {
+      "start": 408.165,
+      "end": 410.745,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "panel. Okay. There's a needs panel. Images."
+    },
+    {
+      "start": 411.90000000000003,
+      "end": 413.83998,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Oh, I see. Oh, bladder"
+    },
+    {
+      "start": 414.21998,
+      "end": 414.71998,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "fun."
+    },
+    {
+      "start": 415.18,
+      "end": 417.43998,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Hunger, social, energy, and hygiene."
+    },
+    {
+      "start": 417.74,
+      "end": 419.76,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Yeah. So for that, I just put a toilet"
+    },
+    {
+      "start": 420.61998,
+      "end": 423.99998,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "inside a fridge, inside a bed, inside a television."
+    },
+    {
+      "start": 425.015,
+      "end": 435.83500000000004,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Okay. Inside a toilet. Ava, I kind of think that if you No way. Inside a bathtub. I kind of think that if humans were required to think about these six things when they were in a bad mood, the world would be a lot happier."
+    },
+    {
+      "start": 436.40000000000003,
+      "end": 438.82002,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Like, if someone is being a jerk, you could just be"
+    },
+    {
+      "start": 439.2,
+      "end": 440.26,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "like, stop a second."
+    },
+    {
+      "start": 440.8,
+      "end": 442.66002000000003,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Do you have fun? Do you have to pee?"
+    },
+    {
+      "start": 443.2,
+      "end": 444.42,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Have you gotten enough socializing?"
+    },
+    {
+      "start": 444.72,
+      "end": 445.54,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Are you hungry?"
+    },
+    {
+      "start": 446.0,
+      "end": 447.14,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Do you need to take a shower?"
+    },
+    {
+      "start": 447.52000000000004,
+      "end": 449.22,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Are you tired? I'm not following."
+    },
+    {
+      "start": 449.60002000000003,
+      "end": 450.34000000000003,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "And, like,"
+    },
+    {
+      "start": 450.83500000000004,
+      "end": 470.97,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "well, it's like, you know, sometimes people are jerks and Yeah. They're not and they don't mean to be jerks, but they're jerks because they're they have to pee or they're hungry or they didn't sleep well or whatever. Oh, that does make sense. And so it's like you stop and be like, wait a minute. Are you really angry? Why don't you just, you know, check your sims levels and maybe you just need to sleep or eat or something?"
+    },
+    {
+      "start": 472.15000000000003,
+      "end": 476.57002,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "I'm I'm just gonna look up some stuff. Look away. Look up away."
+    },
+    {
+      "start": 477.77498,
+      "end": 480.27498,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Look away up. Alright. Ava's googling stuff."
+    },
+    {
+      "start": 487.515,
+      "end": 493.37498,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Male Sims can be abducted and impregnated by aliens. Cool. Okay. So it is like real life. Yeah."
+    },
+    {
+      "start": 494.075,
+      "end": 494.815,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Too bizarre"
+    },
+    {
+      "start": 495.195,
+      "end": 497.535,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "illnesses like creative impulse block."
+    },
+    {
+      "start": 499.44,
+      "end": 505.06,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Oh, I have a question. Yeah? Actually, this made me think of something. Can Sims be neurodiverse?"
+    },
+    {
+      "start": 505.83995,
+      "end": 508.73999999999995,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "No. I don't think so, but you can give them treats that make neurodiverse."
+    },
+    {
+      "start": 512.18,
+      "end": 513.56,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "There should be a mod for that."
+    },
+    {
+      "start": 514.3399999999999,
+      "end": 518.6,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "I'm guessing there is there are, like, mods for everything That would be fun. In every game."
+    },
+    {
+      "start": 519.06,
+      "end": 522.52,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "What's, like so let's let's end this with the elevator exercise."
+    },
+    {
+      "start": 523.62,
+      "end": 527.665,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Wait. We're ending it already? I I don't know. We've been recording for, like, ten minutes almost."
+    },
+    {
+      "start": 528.04495,
+      "end": 528.54495,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "True."
+    },
+    {
+      "start": 529.24497,
+      "end": 533.025,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "We can record later. But, anyway, here's the elevator exercise. Okay?"
+    },
+    {
+      "start": 534.065,
+      "end": 538.0050000000001,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "have thirty seconds in an elevator to convince someone to play the Sims,"
+    },
+    {
+      "start": 539.4300000000001,
+      "end": 550.9700300000001,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "and they're gonna get off soon in thirty seconds. So you gotta convince them Okay. Before they go out. Let's get started. What do you tell them? Okay. I say, you're the person. Okay. Okay? I'm not so sure about the Sims stuff."
+    },
+    {
+      "start": 551.5100000000001,
+      "end": 556.065,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "It's really fun. You can, dress up your Sims. There's a huge variety of outfits"
+    },
+    {
+      "start": 556.605,
+      "end": 558.7850000000001,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "and body types and, tattoos"
+    },
+    {
+      "start": 560.0450000000001,
+      "end": 560.5450000000001,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "even."
+    },
+    {
+      "start": 561.8050000000001,
+      "end": 565.345,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "And you can give them, like, those things that you put on yourself for diabetes."
+    },
+    {
+      "start": 565.6450000000001,
+      "end": 567.825,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Oh, okay. But, like, what's the point?"
+    },
+    {
+      "start": 568.4700300000001,
+      "end": 569.2900400000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "To have fun."
+    },
+    {
+      "start": 569.7500000000001,
+      "end": 571.45,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "Like, live whatever."
+    },
+    {
+      "start": 571.9100400000001,
+      "end": 576.2500000000001,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Okay. So it's, like, kind of a way of having whatever life you want for a little while. And there's vampires."
+    },
+    {
+      "start": 576.6300000000001,
+      "end": 580.1700500000001,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Oh, vampires are dope. I love vampires. And werewolves. Tell me more."
+    },
+    {
+      "start": 580.815,
+      "end": 590.0150000000001,
+      "speaker_id": "1",
+      "speaker": "Dan",
+      "text": "Vampires go roar spooky scary. Oh, okay. This is my floor. I think I'm gonna try the Sims thing. Great. Thanks, Ava. Alright, guys. So that's been,"
+    },
+    {
+      "start": 590.575,
+      "end": 596.4924000000001,
+      "speaker_id": "0",
+      "speaker": "AJ",
+      "text": "the first episode of random neural firings with AJ and Dan. Bye. Bye. Until next time."
+    }
+  ]
+}

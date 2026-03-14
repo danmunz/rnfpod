@@ -1,0 +1,47 @@
+[
+  {
+    "source_from": 0.0,
+    "source_to": 148.065,
+    "dest_from": 0.0
+  },
+  {
+    "source_from": 150.545,
+    "source_to": 193.64,
+    "dest_from": 148.065
+  },
+  {
+    "source_from": 196.74,
+    "source_to": 340.97,
+    "dest_from": 191.16
+  },
+  {
+    "source_from": 343.59,
+    "source_to": 488.475,
+    "dest_from": 335.39
+  },
+  {
+    "source_from": 490.535,
+    "source_to": 495.995,
+    "dest_from": 480.275
+  },
+  {
+    "source_from": 498.295,
+    "source_to": 500.075,
+    "dest_from": 485.735
+  },
+  {
+    "source_from": 503.56,
+    "source_to": 528.225,
+    "dest_from": 487.515
+  },
+  {
+    "source_from": 530.65,
+    "source_to": 552.535,
+    "dest_from": 512.18
+  },
+  {
+    "source_from": 554.755,
+    "source_to": 617.557,
+    "dest_from": 534.065
+  }
+]

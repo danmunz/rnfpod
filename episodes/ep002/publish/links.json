@@ -1,0 +1,17 @@
+[
+  {
+    "label": "Charles II of Spain",
+    "type": "Person",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_II_of_Spain"
+  },
+  {
+    "label": "Oregon Trail",
+    "type": "Game",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Oregon_Trail"
+  },
+  {
+    "label": "Indiana Jones",
+    "type": "Movie",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Indiana_Jones"
+  }
+]

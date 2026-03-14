@@ -4,3 +4,19 @@ src/generated/
 .DS_Store
 *.local
 .playwright-mcp/
+
+# Podcast production
+episodes/*/raw/
+episodes/*/work/
+*.wav
+*.mp3
+config.env
+.env
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Studio
+studio/client/node_modules/
+studio/client/dist/

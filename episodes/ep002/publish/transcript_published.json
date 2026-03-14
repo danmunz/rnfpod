@@ -1,0 +1,2685 @@
+{
+  "segments": [
+    {
+      "start": 0.24,
+      "end": 1.06,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Back to"
+    },
+    {
+      "start": 1.76,
+      "end": 3.6999998,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "another episode of Random Neural Firings."
+    },
+    {
+      "start": 4.4,
+      "end": 6.98,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "This is episode number We've Lost Count Already."
+    },
+    {
+      "start": 7.52,
+      "end": 10.42,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "I think it's '3 or '97. I'm not sure."
+    },
+    {
+      "start": 10.639999,
+      "end": 13.059999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Like, maybe four. I don't know. Whatever."
+    },
+    {
+      "start": 13.155,
+      "end": 13.655,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yeah."
+    },
+    {
+      "start": 13.674999,
+      "end": 15.375,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "I as usual, I'm AJ."
+    },
+    {
+      "start": 15.795,
+      "end": 17.974998,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And I'm Dan, aka dad."
+    },
+    {
+      "start": 17.994999,
+      "end": 18.314999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "And,"
+    },
+    {
+      "start": 18.795,
+      "end": 20.895,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "we are just two ADHD nerds"
+    },
+    {
+      "start": 21.355,
+      "end": 22.895,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "talking about random stuff."
+    },
+    {
+      "start": 22.914999,
+      "end": 24.775,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That is accurate. Now today,"
+    },
+    {
+      "start": 26.019999,
+      "end": 30.84,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "we were going to talk a little more about the Sims and some wild Sims happenings."
+    },
+    {
+      "start": 31.36,
+      "end": 34.18,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah. So, let's start. I tried to recreate"
+    },
+    {
+      "start": 36.5,
+      "end": 38.2,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Charles the second of Spain,"
+    },
+    {
+      "start": 38.355,
+      "end": 38.855,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Mhmm."
+    },
+    {
+      "start": 38.845,
+      "end": 40.144999999999996,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "and The Sims four."
+    },
+    {
+      "start": 40.195,
+      "end": 40.695,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yeah."
+    },
+    {
+      "start": 41.394999999999996,
+      "end": 44.775,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Now why was that kind of a weird challenge to do?"
+    },
+    {
+      "start": 44.925002,
+      "end": 46.144999999999996,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Because The Sims"
+    },
+    {
+      "start": 47.165,
+      "end": 47.665,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "appearance"
+    },
+    {
+      "start": 48.205,
+      "end": 49.185,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "face sliders"
+    },
+    {
+      "start": 50.205,
+      "end": 52.464999999999996,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "wouldn't go as far as his extreme features."
+    },
+    {
+      "start": 53.089999999999996,
+      "end": 55.43,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yikes. Yeah. He was pretty odd looking dude."
+    },
+    {
+      "start": 55.66,
+      "end": 56.16,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 56.29,
+      "end": 58.95,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "He was the product of, like, centuries of inbreeding."
+    },
+    {
+      "start": 58.86,
+      "end": 59.36,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 59.65,
+      "end": 60.71,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That's pretty weird."
+    },
+    {
+      "start": 62.08,
+      "end": 68.26,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "okay. Now we are about to use the super duper nerd matron, aka the laptop we're recording on."
+    },
+    {
+      "start": 68.19,
+      "end": 69.089995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Research time."
+    },
+    {
+      "start": 69.09,
+      "end": 71.11,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Alright. Let's learn about that."
+    },
+    {
+      "start": 69.81,
+      "end": 72.95,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "No. No. Not not not this. Let me let me Google."
+    },
+    {
+      "start": 73.43,
+      "end": 74.25000000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "We're googling"
+    },
+    {
+      "start": 74.63000400000001,
+      "end": 75.13000400000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "who"
+    },
+    {
+      "start": 75.67000000000002,
+      "end": 76.57000000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "was Charles,"
+    },
+    {
+      "start": 75.75000000000001,
+      "end": 76.40999500000001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "What's the"
+    },
+    {
+      "start": 77.11000000000001,
+      "end": 77.85000000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "I I,"
+    },
+    {
+      "start": 78.07000000000001,
+      "end": 78.81000000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "The second."
+    },
+    {
+      "start": 78.78500000000001,
+      "end": 79.44500000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "the second?"
+    },
+    {
+      "start": 81.42500000000001,
+      "end": 82.72500000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Oh, who was his parents?"
+    },
+    {
+      "start": 83.26500000000001,
+      "end": 86.16500000000002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay. Good question. I guess Charles the first probably. Right?"
+    },
+    {
+      "start": 84.40500000000002,
+      "end": 85.38499400000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Is Charles the first"
+    },
+    {
+      "start": 86.16500000000002,
+      "end": 88.26500000000001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Charles the first and Henrietta Maria."
+    },
+    {
+      "start": 88.38500000000002,
+      "end": 90.88500000000002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Henrietta Maria of France. Okay."
+    },
+    {
+      "start": 90.805,
+      "end": 91.305,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Okay."
+    },
+    {
+      "start": 91.47999500000002,
+      "end": 91.97999500000002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Interesting."
+    },
+    {
+      "start": 92.67999000000002,
+      "end": 93.17999000000002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "So"
+    },
+    {
+      "start": 93.88000000000001,
+      "end": 94.38000000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "it"
+    },
+    {
+      "start": 95.08000000000001,
+      "end": 95.58000000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "was"
+    },
+    {
+      "start": 97.42,
+      "end": 104.72,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Was Charles the second's mom his cousin? Let's see. It says no. King Charles the second of England's mom was not his cousin."
+    },
+    {
+      "start": 105.82,
+      "end": 108.51499999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "But let's figure out let's figure out let's see."
+    },
+    {
+      "start": 109.07498999999999,
+      "end": 110.535,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Charles the second"
+    },
+    {
+      "start": 120.28500000000001,
+      "end": 121.02500000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Water break."
+    },
+    {
+      "start": 121.26,
+      "end": 123.2,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That's kind of interesting. So, like"
+    },
+    {
+      "start": 122.94999,
+      "end": 123.93000000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Don't forget hydrate."
+    },
+    {
+      "start": 123.82000000000001,
+      "end": 124.32000000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "yep."
+    },
+    {
+      "start": 124.7,
+      "end": 133.36001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "So, like, their whole thing was we have to all marry each other in the family because we all have different parts of Europe, and we have to get all the most parts of Europe."
+    },
+    {
+      "start": 133.66998999999998,
+      "end": 134.16998999999998,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah?"
+    },
+    {
+      "start": 134.14,
+      "end": 135.28000000000003,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That's kinda weird."
+    },
+    {
+      "start": 135.09501,
+      "end": 135.755,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Hang on."
+    },
+    {
+      "start": 136.53500000000003,
+      "end": 137.91500000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Can I add something to the search?"
+    },
+    {
+      "start": 137.995,
+      "end": 138.81501000000003,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yeah. Sure."
+    },
+    {
+      "start": 138.615,
+      "end": 141.03500000000003,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "So this is something that really fascinates me."
+    },
+    {
+      "start": 140.71500000000003,
+      "end": 141.53501,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "What's that?"
+    },
+    {
+      "start": 142.79500000000002,
+      "end": 145.45501000000002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Oh, in reading symptoms. Interesting. Okay."
+    },
+    {
+      "start": 143.65500000000003,
+      "end": 144.71500000000003,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "That's interesting."
+    },
+    {
+      "start": 146.47500000000002,
+      "end": 148.575,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yeah. He had the Habsburg jaw."
+    },
+    {
+      "start": 148.43,
+      "end": 149.41001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Hang on."
+    },
+    {
+      "start": 151.31,
+      "end": 154.93,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "So this might look weird, but it actually has some good info."
+    },
+    {
+      "start": 155.14,
+      "end": 155.64,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay."
+    },
+    {
+      "start": 156.10000000000002,
+      "end": 158.2,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Charles the second autopsy report."
+    },
+    {
+      "start": 159.71001,
+      "end": 160.77001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Don't worry. It's"
+    },
+    {
+      "start": 162.26499,
+      "end": 162.76499,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay."
+    },
+    {
+      "start": 163.945,
+      "end": 165.64499999999998,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "A peppercorn sized heart?"
+    },
+    {
+      "start": 165.02500000000003,
+      "end": 166.245,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "It's hard. Yes."
+    },
+    {
+      "start": 166.10500000000002,
+      "end": 167.16500000000002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "How is that possible?"
+    },
+    {
+      "start": 166.945,
+      "end": 167.84501,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "I don't know."
+    },
+    {
+      "start": 167.46500000000003,
+      "end": 168.68499000000003,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That's, like, this big."
+    },
+    {
+      "start": 168.62501000000003,
+      "end": 169.12501000000003,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 169.90500000000003,
+      "end": 170.805,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "I don't know."
+    },
+    {
+      "start": 170.90499,
+      "end": 171.565,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "A peppercorns"
+    },
+    {
+      "start": 171.945,
+      "end": 173.565,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "peppercorn sized heart,"
+    },
+    {
+      "start": 174.60000000000002,
+      "end": 175.74,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "gangrenous intestines,"
+    },
+    {
+      "start": 181.11999000000003,
+      "end": 181.61999000000003,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 181.62,
+      "end": 184.68,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And a head filled with fluid. His body lacked blood."
+    },
+    {
+      "start": 185.56500000000003,
+      "end": 187.425,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "How is this guy alive at all?"
+    },
+    {
+      "start": 187.185,
+      "end": 188.00499000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Is this vampire?"
+    },
+    {
+      "start": 188.60501000000002,
+      "end": 190.145,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "This guy might have been a vampire."
+    },
+    {
+      "start": 188.70499,
+      "end": 189.20499,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "I"
+    },
+    {
+      "start": 189.90499000000003,
+      "end": 191.84499000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "think there's extra treats. Oh, that's interesting."
+    },
+    {
+      "start": 190.925,
+      "end": 192.46501,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Oh, that's interesting. Yeah."
+    },
+    {
+      "start": 192.70499,
+      "end": 193.44500000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "That's cool."
+    },
+    {
+      "start": 193.80501,
+      "end": 194.865,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "I guess. Yeah."
+    },
+    {
+      "start": 194.465,
+      "end": 194.965,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 196.84500000000003,
+      "end": 203.4,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "So he lived I guess he didn't live that long. He died at age 38, but I'm surprised he made it that long."
+    },
+    {
+      "start": 203.20001000000002,
+      "end": 203.94000000000003,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Well, yeah."
+    },
+    {
+      "start": 205.36,
+      "end": 211.54000000000002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "He did not have offspring, I guess, obviously, but with his one trunk and black testicle and peppercorn sized heart."
+    },
+    {
+      "start": 212.365,
+      "end": 213.10499000000002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Let's see."
+    },
+    {
+      "start": 212.645,
+      "end": 217.145,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "yeah. Yeah. That's why he was last Habsburg or at least Spanish Habsburg"
+    },
+    {
+      "start": 218.345,
+      "end": 220.205,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "he died without an heir."
+    },
+    {
+      "start": 220.38999,
+      "end": 228.875,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Eva, sometimes I think about if I lived in Spain in the Habsburg era and, like, imagine you're a Spaniard. You're just, like, hanging around doing Spanish stuff."
+    },
+    {
+      "start": 229.375,
+      "end": 229.875,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Hola."
+    },
+    {
+      "start": 230.375,
+      "end": 231.675,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Hola, fellow Spaniard."
+    },
+    {
+      "start": 231.865,
+      "end": 232.365,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yes."
+    },
+    {
+      "start": 233.09500000000003,
+      "end": 236.875,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And they you know, the Herald comes riding down your street, and he's like,"
+    },
+    {
+      "start": 237.49,
+      "end": 241.82999999999998,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "news. News. We have news. And you're like, oh, news. Okay. Hopefully, nothing terrible."
+    },
+    {
+      "start": 240.69997999999998,
+      "end": 241.59998000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "What is it?"
+    },
+    {
+      "start": 242.28998,
+      "end": 246.22998,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And he's like, oh, there's a new king. You're like, oh, sweet. Okay. Yeah."
+    },
+    {
+      "start": 247.32999999999998,
+      "end": 248.94997999999998,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "New king. Very very bien."
+    },
+    {
+      "start": 248.495,
+      "end": 249.79502000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "So I know some Spanish."
+    },
+    {
+      "start": 249.89,
+      "end": 251.18997000000002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "You do. Totally bien."
+    },
+    {
+      "start": 251.29502000000002,
+      "end": 251.79502000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 253.21499999999997,
+      "end": 253.95499999999998,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And then"
+    },
+    {
+      "start": 254.255,
+      "end": 256.595,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "you're like, okay. Let's find out who this dude is."
+    },
+    {
+      "start": 255.29500000000002,
+      "end": 255.79500000000002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 256.495,
+      "end": 257.395,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Who is it?"
+    },
+    {
+      "start": 267.56,
+      "end": 268.54001999999997,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And you'd be like,"
+    },
+    {
+      "start": 269.4,
+      "end": 269.9,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "k."
+    },
+    {
+      "start": 271.02497,
+      "end": 274.24496999999997,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "I think I'm I think I'm gonna move to Portugal."
+    },
+    {
+      "start": 276.78,
+      "end": 277.28,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Dang."
+    },
+    {
+      "start": 278.24499999999995,
+      "end": 278.905,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Dang it."
+    },
+    {
+      "start": 278.78,
+      "end": 279.59997999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Dang it."
+    },
+    {
+      "start": 279.97997999999995,
+      "end": 284.4,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Did they own Portugal at the time too? That's a good question. Let's see. I'm gonna look at"
+    },
+    {
+      "start": 280.32498,
+      "end": 280.82498,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "I"
+    },
+    {
+      "start": 282.24499999999995,
+      "end": 283.065,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "don't know."
+    },
+    {
+      "start": 283.765,
+      "end": 286.10499999999996,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "They're stuck on the Nerveron 3,000."
+    },
+    {
+      "start": 285.02,
+      "end": 286.31998,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "the Hamburg"
+    },
+    {
+      "start": 286.69998,
+      "end": 287.19998,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Empire,"
+    },
+    {
+      "start": 288.54497999999995,
+      "end": 289.28497,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "in the"
+    },
+    {
+      "start": 289.905,
+      "end": 291.04497999999995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "sixteen hundreds."
+    },
+    {
+      "start": 292.30499999999995,
+      "end": 294.56496999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Let's see how big that puppy was."
+    },
+    {
+      "start": 295.74499999999995,
+      "end": 300.24499999999995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yeah. So according to Wikipedia, an unimpeachable source of truth,"
+    },
+    {
+      "start": 300.14,
+      "end": 301.11999999999995,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yes. Obviously."
+    },
+    {
+      "start": 301.71999999999997,
+      "end": 303.82,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "the Habsburg empire in"
+    },
+    {
+      "start": 304.84,
+      "end": 305.34,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "the,"
+    },
+    {
+      "start": 306.03999999999996,
+      "end": 307.47999999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "like, around 1700."
+    },
+    {
+      "start": 307.47999999999996,
+      "end": 311.09999999999997,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay. So, yes, they had all of Spain. Portugal. All of Portugal."
+    },
+    {
+      "start": 309.13498,
+      "end": 310.515,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Sword of the Lord of the Rings?"
+    },
+    {
+      "start": 311.13498,
+      "end": 314.19,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Aragon, which sounds like something from Lord of the Rings."
+    },
+    {
+      "start": 314.275,
+      "end": 315.41497999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "It's where they make tarragon."
+    },
+    {
+      "start": 316.19498,
+      "end": 317.25498,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That is not true."
+    },
+    {
+      "start": 317.63,
+      "end": 319.01,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "The I don't get it,"
+    },
+    {
+      "start": 319.155,
+      "end": 319.97497999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "I'm joking."
+    },
+    {
+      "start": 320.19,
+      "end": 321.89002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "but I don't get the joke."
+    },
+    {
+      "start": 321.55499999999995,
+      "end": 325.09499999999997,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Well, tarragon is a spice, and it'd be funny if it came from a place called Aragon"
+    },
+    {
+      "start": 325.63,
+      "end": 326.61001999999996,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Or Oregon."
+    },
+    {
+      "start": 326.65999999999997,
+      "end": 329.4,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Or Oregon. Yeah. So that's where they make tarragon."
+    },
+    {
+      "start": 327.94498,
+      "end": 328.44498,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 329.465,
+      "end": 330.525,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Maybe they named"
+    },
+    {
+      "start": 330.34,
+      "end": 331.24001999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Different spice."
+    },
+    {
+      "start": 330.905,
+      "end": 333.48499999999996,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "or maybe they named Oregon after Aragon."
+    },
+    {
+      "start": 334.17999999999995,
+      "end": 334.91999999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That's possible."
+    },
+    {
+      "start": 334.82498,
+      "end": 335.645,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Look it up."
+    },
+    {
+      "start": 336.26,
+      "end": 337.96,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Well, here. Let's stick with this."
+    },
+    {
+      "start": 337.78497,
+      "end": 338.28497,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 338.26,
+      "end": 339.08002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "So the"
+    },
+    {
+      "start": 338.98499999999996,
+      "end": 341.80499999999995,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "So I'm I'm ADHD. I can never stick with anything."
+    },
+    {
+      "start": 341.875,
+      "end": 342.375,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Habsburgs"
+    },
+    {
+      "start": 343.155,
+      "end": 348.775,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "had, weirdly, all of Spain and Portugal and then, like, the bottom part of Italy and then also,"
+    },
+    {
+      "start": 349.395,
+      "end": 349.895,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "basically,"
+    },
+    {
+      "start": 350.51502,
+      "end": 355.28999999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Northern Central Europe, so, like, Belgium and stuff, and then, like, a random part of"
+    },
+    {
+      "start": 356.09,
+      "end": 359.78999999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Milan and, like, this sort of thing that's part of Germany a little, maybe?"
+    },
+    {
+      "start": 360.16497999999996,
+      "end": 360.66497999999996,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Basically"
+    },
+    {
+      "start": 360.96999999999997,
+      "end": 363.22999999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Oh, and Sardinia. Just because why not?"
+    },
+    {
+      "start": 362.965,
+      "end": 363.465,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "yep."
+    },
+    {
+      "start": 364.645,
+      "end": 366.025,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "That's kinda messed up."
+    },
+    {
+      "start": 367.28999999999996,
+      "end": 372.29499999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yes. You know what else is messed up? The fact that the exact name of Oregon is uncertain,"
+    },
+    {
+      "start": 373.155,
+      "end": 374.61499999999995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "but there are several theories."
+    },
+    {
+      "start": 373.7,
+      "end": 374.2,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "What?"
+    },
+    {
+      "start": 374.65999999999997,
+      "end": 376.13,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "What the hell are helicopters?"
+    },
+    {
+      "start": 376.755,
+      "end": 379.17499999999995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Exactly. That's exactly what I thought to myself."
+    },
+    {
+      "start": 379.79499999999996,
+      "end": 381.335,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay. So here are the theories."
+    },
+    {
+      "start": 381.395,
+      "end": 382.69498,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Big eared men?"
+    },
+    {
+      "start": 382.9,
+      "end": 386.52002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "What? Oh, yeah. One theory is that Spanish explorers use the term,"
+    },
+    {
+      "start": 387.46002,
+      "end": 391.96002,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "big eared men, to describe Native American tribes in the region. That is rude."
+    },
+    {
+      "start": 393.05999999999995,
+      "end": 393.55999999999995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Another"
+    },
+    {
+      "start": 393.86001999999996,
+      "end": 394.36001999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "idea"
+    },
+    {
+      "start": 394.34,
+      "end": 394.84,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yours?"
+    },
+    {
+      "start": 395.02502999999996,
+      "end": 396.565,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "suggests Alura Agua"
+    },
+    {
+      "start": 396.86501999999996,
+      "end": 398.16499999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "gently falling waters"
+    },
+    {
+      "start": 398.58002,
+      "end": 399.08002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Okay."
+    },
+    {
+      "start": 403.52502,
+      "end": 405.145,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "We've made a nerdy connection."
+    },
+    {
+      "start": 405.575,
+      "end": 406.39498,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Already connect"
+    },
+    {
+      "start": 405.84,
+      "end": 406.34,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "We've"
+    },
+    {
+      "start": 406.71999999999997,
+      "end": 408.01998,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "made a nerdy connection."
+    },
+    {
+      "start": 408.455,
+      "end": 410.39498,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "we're hoping to improve our theme songs"
+    },
+    {
+      "start": 411.575,
+      "end": 414.955,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "if I ever get enough motivation to actually learn guitar."
+    },
+    {
+      "start": 415.68,
+      "end": 416.18,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yeah."
+    },
+    {
+      "start": 416.88,
+      "end": 425.83498,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "I really like that these two theories are together. Like, I'm imagining the Spanish explorers coming back and being like, we found a land, and people like, oh, tell us about it. And"
+    },
+    {
+      "start": 425.71999999999997,
+      "end": 427.01998,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Does anyone live in it?"
+    },
+    {
+      "start": 427.03499999999997,
+      "end": 429.215,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "well, yes. It has two things,"
+    },
+    {
+      "start": 429.67498,
+      "end": 430.17498,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "beautiful,"
+    },
+    {
+      "start": 430.79498,
+      "end": 431.29498,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "gently"
+    },
+    {
+      "start": 431.59499999999997,
+      "end": 433.215,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "descending, graceful waterfalls"
+    },
+    {
+      "start": 433.335,
+      "end": 434.075,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Sounds amazing."
+    },
+    {
+      "start": 435.40002,
+      "end": 435.90002,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "WTF."
+    },
+    {
+      "start": 436.80499999999995,
+      "end": 440.26498,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yeah. You know? Well, I guess in in Spanish, it would be"
+    },
+    {
+      "start": 440.72499999999997,
+      "end": 441.86497999999995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "q e,"
+    },
+    {
+      "start": 444.26998,
+      "end": 445.09,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "k l"
+    },
+    {
+      "start": 448.45998,
+      "end": 448.95998,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Your"
+    },
+    {
+      "start": 448.96,
+      "end": 450.74,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "search history must be messed up."
+    },
+    {
+      "start": 451.32998,
+      "end": 454.15,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay. I'm not sharing a search engine with you anymore."
+    },
+    {
+      "start": 455.17502,
+      "end": 460.155,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Oh, interesting. Okay. Another theory is that early French Canadian fur trappers may have used Oregon,"
+    },
+    {
+      "start": 460.455,
+      "end": 465.11499999999995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "hurricane, or wind to describe the Columbia River, a term which could have evolved into Oregon."
+    },
+    {
+      "start": 465.055,
+      "end": 468.835,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "We have wind. We have harsh winds. Beautiful waterfalls."
+    },
+    {
+      "start": 469.18,
+      "end": 470.56,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And Big Eared Men."
+    },
+    {
+      "start": 469.82,
+      "end": 470.32,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Noise."
+    },
+    {
+      "start": 471.49999999999994,
+      "end": 476.31994000000003,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "I think that might be the episode title. Harsh Winds, Beautiful Waterfalls, and Big Eared Men."
+    },
+    {
+      "start": 477.57995,
+      "end": 478.95995999999997,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "The Oregon Story."
+    },
+    {
+      "start": 480.94,
+      "end": 482.16002999999995,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Speaking of Oregon,"
+    },
+    {
+      "start": 482.34499999999997,
+      "end": 482.84499999999997,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yes."
+    },
+    {
+      "start": 483.18,
+      "end": 484.96,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "ADHD segway time."
+    },
+    {
+      "start": 484.825,
+      "end": 485.64500000000004,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Hit me."
+    },
+    {
+      "start": 486.575,
+      "end": 487.47503,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Oregon Trail."
+    },
+    {
+      "start": 487.545,
+      "end": 488.045,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yes."
+    },
+    {
+      "start": 488.66504000000003,
+      "end": 489.64500000000004,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "What about it?"
+    },
+    {
+      "start": 490.89500000000004,
+      "end": 492.03502999999995,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "You died of dysentery."
+    },
+    {
+      "start": 492.73499999999996,
+      "end": 496.51500000000004,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Speaking of which, dysentery is basically where you have diarrhea until you die."
+    },
+    {
+      "start": 496.60999999999996,
+      "end": 500.14996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That is true, and dye is right in the name, in fact. It's not called liveria."
+    },
+    {
+      "start": 500.15,
+      "end": 501.6099999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "And it's dysentery."
+    },
+    {
+      "start": 502.15,
+      "end": 504.7099999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "And if you add if you chop off the first"
+    },
+    {
+      "start": 505.61502999999993,
+      "end": 506.5149999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "if you separate"
+    },
+    {
+      "start": 507.61502999999993,
+      "end": 508.91499999999996,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "oh, okay. This is fun."
+    },
+    {
+      "start": 508.5949999999999,
+      "end": 509.79499999999996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Let's see. What are all"
+    },
+    {
+      "start": 509.8549999999999,
+      "end": 511.4749999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "No. Video game."
+    },
+    {
+      "start": 511.4749999999999,
+      "end": 516.035,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "oh, yeah. Video game. I accidentally searched just the real Oregon Trail, which is more gruesome."
+    },
+    {
+      "start": 517.27,
+      "end": 517.77,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Video"
+    },
+    {
+      "start": 519.67,
+      "end": 524.3299999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "okay. What were let's see. Stack Exchange, of course, is an article."
+    },
+    {
+      "start": 522.2699399999999,
+      "end": 525.3299999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Game. Let me read it. Let me read it."
+    },
+    {
+      "start": 530.225,
+      "end": 530.725,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Mark"
+    },
+    {
+      "start": 531.7850000000001,
+      "end": 536.445,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Fever, dysentery, measles, cholera, typhoid, exhaustion, snake bite, broken leg, broken arm, drowning."
+    },
+    {
+      "start": 537.1850000000001,
+      "end": 537.6850000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Bummer."
+    },
+    {
+      "start": 539.345,
+      "end": 540.965,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Why couldn't you break anything else?"
+    },
+    {
+      "start": 541.6250000000001,
+      "end": 543.2450000000001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Why couldn't you break your butt?"
+    },
+    {
+      "start": 543.4100000000001,
+      "end": 546.5500000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Sift broken. You died of a broken butt on the Oregon Trail."
+    },
+    {
+      "start": 547.1800000000001,
+      "end": 547.6800000000001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yes."
+    },
+    {
+      "start": 549.18,
+      "end": 550.9599999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "you'd have trouble sitting on the wagon"
+    },
+    {
+      "start": 550.9449999999999,
+      "end": 552.0849999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That's true."
+    },
+    {
+      "start": 551.3399999999999,
+      "end": 552.8799999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "or walking beside it."
+    },
+    {
+      "start": 552.785,
+      "end": 555.285,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That's true. Yeah. I guess that would be tough."
+    },
+    {
+      "start": 555.9949999999999,
+      "end": 558.015,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "You just have to, like, sit"
+    },
+    {
+      "start": 558.8749999999999,
+      "end": 561.2149999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "on your you just have to lay on your stomach."
+    },
+    {
+      "start": 561.265,
+      "end": 564.7249999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yep. You just have to slither or roll your way to the Oregon Trail."
+    },
+    {
+      "start": 566.2899699999999,
+      "end": 567.67,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "I'm rolling my way to Oregon."
+    },
+    {
+      "start": 567.52,
+      "end": 568.50005,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Wait. What if"
+    },
+    {
+      "start": 568.2099499999999,
+      "end": 569.27,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "My broken butt."
+    },
+    {
+      "start": 569.3600299999999,
+      "end": 577.14,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "what if you broke your leg? Now you have to crawl everywhere. You broke your arm. Now you have to slither everywhere. That's how you become a snake and then you cause"
+    },
+    {
+      "start": 577.76006,
+      "end": 578.26006,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "wait."
+    },
+    {
+      "start": 578.7149999999999,
+      "end": 580.17504,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Wait. Then you bite someone else?"
+    },
+    {
+      "start": 579.9350499999999,
+      "end": 582.4350499999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah. And then they die. Wait. Wait. Hold up."
+    },
+    {
+      "start": 581.1949999999999,
+      "end": 581.6949999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Oh,"
+    },
+    {
+      "start": 582.2350299999999,
+      "end": 583.3749999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "this is a very"
+    },
+    {
+      "start": 583.67504,
+      "end": 585.4549999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "surreal version of the Oregon Trail."
+    },
+    {
+      "start": 584.895,
+      "end": 587.155,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Oregon Trail, PVP mode."
+    },
+    {
+      "start": 587.035,
+      "end": 587.8549999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "What's PVP?"
+    },
+    {
+      "start": 588.015,
+      "end": 589.3150499999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Player v player."
+    },
+    {
+      "start": 590.25505,
+      "end": 591.9549999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Oregon Trail, free for all."
+    },
+    {
+      "start": 591.7400399999999,
+      "end": 594.2400399999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Kind of like a combination of Oregon Trail and Street Fighter."
+    },
+    {
+      "start": 594.15,
+      "end": 596.81,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "No. Oregon Trail and the Hunger Games of Spider."
+    },
+    {
+      "start": 597.5099999999999,
+      "end": 598.41,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "It's where, like,"
+    },
+    {
+      "start": 599.3499999999999,
+      "end": 600.9699999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "fight this. It's like,"
+    },
+    {
+      "start": 600.8600299999999,
+      "end": 602.3200599999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "The Oregon Squid Game?"
+    },
+    {
+      "start": 602.22997,
+      "end": 603.53,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "fist fight the snake."
+    },
+    {
+      "start": 604.155,
+      "end": 606.655,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Well, you would definitely win a fist fight with a snake."
+    },
+    {
+      "start": 607.1949999999999,
+      "end": 610.8150499999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "And a gunfight with a snake. Doesn't have any arms to carry one."
+    },
+    {
+      "start": 608.6349999999999,
+      "end": 609.1349999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yes."
+    },
+    {
+      "start": 610.55504,
+      "end": 611.8349999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That's right. But you would"
+    },
+    {
+      "start": 613.6950300000001,
+      "end": 615.715,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Brew did bring a fang to a gunfight"
+    },
+    {
+      "start": 616.9100000000001,
+      "end": 617.8100000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "too, in fact."
+    },
+    {
+      "start": 623.25,
+      "end": 624.55,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "I never watched those."
+    },
+    {
+      "start": 624.48,
+      "end": 626.18,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "There's a scene, where,"
+    },
+    {
+      "start": 626.8,
+      "end": 627.46,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "a guy,"
+    },
+    {
+      "start": 627.825,
+      "end": 631.28497,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "I think, is charming a snake, and Indiana Jones hates snakes, and he shoots"
+    },
+    {
+      "start": 631.985,
+      "end": 633.525,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "the snake or maybe the guy."
+    },
+    {
+      "start": 634.945,
+      "end": 636.485,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Maybe I'm misremembering this."
+    },
+    {
+      "start": 636.545,
+      "end": 641.55,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "He shoots something and then the snake shoots him and then he shoots his neck. And then"
+    },
+    {
+      "start": 640.46496,
+      "end": 642.245,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "The snake shoots the gun somehow."
+    },
+    {
+      "start": 642.01,
+      "end": 644.27,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "then and then donates something"
+    },
+    {
+      "start": 644.73,
+      "end": 645.55,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "to a museum."
+    },
+    {
+      "start": 645.73,
+      "end": 650.94995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And then the snake steals his little Indiana Jones hat and becomes the protagonist of the next five movies."
+    },
+    {
+      "start": 650.65,
+      "end": 652.51,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah. And then gets old"
+    },
+    {
+      "start": 652.44995,
+      "end": 653.99,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And it's Indiana Jones."
+    },
+    {
+      "start": 654.525,
+      "end": 656.385,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "and then gets old and replaced,"
+    },
+    {
+      "start": 656.865,
+      "end": 657.365,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yes."
+    },
+    {
+      "start": 657.165,
+      "end": 658.545,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "and then it happens again."
+    },
+    {
+      "start": 658.225,
+      "end": 660.165,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yes. This remake of Indiana Jones"
+    },
+    {
+      "start": 660.78497,
+      "end": 664.08496,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "instead of Harrison Ford will star a random snake."
+    },
+    {
+      "start": 664.365,
+      "end": 664.865,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 665.63,
+      "end": 671.25006,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Wait. We should do Indiana Jones, first, from the perspective of from the perspective of all the snakes."
+    },
+    {
+      "start": 671.36,
+      "end": 672.5,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Let's see. Indiana"
+    },
+    {
+      "start": 673.76,
+      "end": 675.22,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "to the chat g p t"
+    },
+    {
+      "start": 675.95,
+      "end": 676.45,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yay."
+    },
+    {
+      "start": 677.87005,
+      "end": 678.61004,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "This is"
+    },
+    {
+      "start": 678.0,
+      "end": 678.5,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "mobile."
+    },
+    {
+      "start": 679.2,
+      "end": 679.9399999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "The plot"
+    },
+    {
+      "start": 680.55505,
+      "end": 681.215,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "of Indiana"
+    },
+    {
+      "start": 681.99505,
+      "end": 684.655,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Jones if the entire series"
+    },
+    {
+      "start": 686.495,
+      "end": 690.355,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "written from the POV of all the snakes"
+    },
+    {
+      "start": 690.8149999999999,
+      "end": 691.875,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "in the films."
+    },
+    {
+      "start": 692.8399999999999,
+      "end": 695.18,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Okay. We should probably name ChattyPT."
+    },
+    {
+      "start": 695.5799999999999,
+      "end": 696.0799999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Calculating."
+    },
+    {
+      "start": 696.12,
+      "end": 697.48,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "We should probably give it in"
+    },
+    {
+      "start": 700.62,
+      "end": 703.5200299999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay. Okay. Episode one, the temple incident."
+    },
+    {
+      "start": 705.1049999999999,
+      "end": 716.645,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "A human crashes into a Peruvian sanctuary triggering traps clearly designed to keep humans out. We, the snakes, are stationed responsibly on the floor, performing our ancestral duty of existing quietly and the symbolically."
+    },
+    {
+      "start": 717.03,
+      "end": 717.8499999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Hat Man."
+    },
+    {
+      "start": 717.8399999999999,
+      "end": 721.62,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Hat Man recoils in horror. Okay. So Hat Man is now Indiana Jones' name."
+    },
+    {
+      "start": 721.51,
+      "end": 723.2099999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Hat Man doesn't like us."
+    },
+    {
+      "start": 722.9599999999999,
+      "end": 725.2199999999999,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "I would watch it. The Adventures of Hat Man."
+    },
+    {
+      "start": 725.795,
+      "end": 727.495,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "The Adventures of Hat Man versus"
+    },
+    {
+      "start": 728.24,
+      "end": 731.06,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "The Adventures of Very Disruptive Hat Man."
+    },
+    {
+      "start": 730.995,
+      "end": 733.175,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "the Adventures of Hat Man."
+    },
+    {
+      "start": 734.0749599999999,
+      "end": 734.81495,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And Robin?"
+    },
+    {
+      "start": 736.015,
+      "end": 736.835,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Hat Man."
+    },
+    {
+      "start": 737.455,
+      "end": 743.23495,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "It's a version of Batman, except he really doesn't like sun, so he always wears hats. Okay."
+    },
+    {
+      "start": 742.74996,
+      "end": 743.80996,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Back to"
+    },
+    {
+      "start": 744.42996,
+      "end": 745.97,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "snake Indiana Jones."
+    },
+    {
+      "start": 745.61,
+      "end": 748.27,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yes. Back to the other digression from our last digression."
+    },
+    {
+      "start": 748.35,
+      "end": 748.85,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yes."
+    },
+    {
+      "start": 749.13,
+      "end": 749.63,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay."
+    },
+    {
+      "start": 749.47,
+      "end": 751.24996,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "We only digress from our digressions."
+    },
+    {
+      "start": 751.77,
+      "end": 752.27,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay."
+    },
+    {
+      "start": 752.89,
+      "end": 757.63,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Later, we are forced into a confined cargo space aboard an aircraft. No food. No ventilation."
+    },
+    {
+      "start": 758.3050000000001,
+      "end": 763.125,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "One terrified man and dozens of calm professionals trying not to escalate the situation."
+    },
+    {
+      "start": 763.155,
+      "end": 763.655,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "What?"
+    },
+    {
+      "start": 763.9050500000001,
+      "end": 766.4050500000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "The ark is open. Faces melt. We had warned everyone."
+    },
+    {
+      "start": 766.3000000000001,
+      "end": 767.6,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "The faces melt?"
+    },
+    {
+      "start": 770.64,
+      "end": 771.30004,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "I'm scared."
+    },
+    {
+      "start": 771.48,
+      "end": 773.82,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yes. The lesson? Don't open the ark"
+    },
+    {
+      "start": 772.72,
+      "end": 773.7,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "I live in New York."
+    },
+    {
+      "start": 774.6,
+      "end": 777.25994,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "or screen. They definitely are in danger."
+    },
+    {
+      "start": 776.8149999999999,
+      "end": 777.3149999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Door."
+    },
+    {
+      "start": 777.88,
+      "end": 778.38,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay."
+    },
+    {
+      "start": 778.255,
+      "end": 779.555,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "What what's it look like?"
+    },
+    {
+      "start": 779.15997,
+      "end": 781.33996,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Episode two, the colonial mining disaster."
+    },
+    {
+      "start": 780.015,
+      "end": 780.515,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Death."
+    },
+    {
+      "start": 781.455,
+      "end": 785.235,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "No. No, Doug. Look that up and tell me if it's too gruesome for me."
+    },
+    {
+      "start": 782.07495,
+      "end": 782.57495,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "No?"
+    },
+    {
+      "start": 783.27496,
+      "end": 783.77496,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay."
+    },
+    {
+      "start": 785.115,
+      "end": 785.615,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Indiana"
+    },
+    {
+      "start": 785.995,
+      "end": 786.495,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Jones"
+    },
+    {
+      "start": 786.875,
+      "end": 788.255,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "face melt gif."
+    },
+    {
+      "start": 791.25,
+      "end": 791.75,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "I"
+    },
+    {
+      "start": 791.35,
+      "end": 792.33,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Is that too bad?"
+    },
+    {
+      "start": 793.1700000000001,
+      "end": 794.95,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "mean, it's sort of funny."
+    },
+    {
+      "start": 796.45,
+      "end": 799.83,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "It's that oh, that dude. Let's see this dude. There he goes."
+    },
+    {
+      "start": 800.84996,
+      "end": 804.3900000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay. They're unhappy. They saw the arc. They wish they didn't see the arc."
+    },
+    {
+      "start": 805.705,
+      "end": 808.605,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Let's see. Are we gonna get the face melting action in this one?"
+    },
+    {
+      "start": 815.265,
+      "end": 816.885,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Anyway, back to episode three."
+    },
+    {
+      "start": 817.06995,
+      "end": 820.61,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Maybe we should discuss that after recording ends."
+    },
+    {
+      "start": 820.625,
+      "end": 821.125,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay."
+    },
+    {
+      "start": 821.70997,
+      "end": 822.61,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "It is currently,"
+    },
+    {
+      "start": 824.59,
+      "end": 825.73,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "08:30PM,"
+    },
+    {
+      "start": 826.11,
+      "end": 828.925,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "and I don't wanna get traumatized an hour before I go to bed."
+    },
+    {
+      "start": 828.8,
+      "end": 834.42,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Now it's time for our jingle that we sing when something was kinda messed up. Hey, that was kinda messed up."
+    },
+    {
+      "start": 833.565,
+      "end": 834.065,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah."
+    },
+    {
+      "start": 835.44,
+      "end": 841.615,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay. Episode three, the library of questionable handling. By this point, the stories of the Hat Man have become legend."
+    },
+    {
+      "start": 842.075,
+      "end": 848.175,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "He fears us irrationally and yet keeps seeking places where we live. We interpret this as a psychological issue on this part."
+    },
+    {
+      "start": 847.92,
+      "end": 848.74,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Okay. Yeah."
+    },
+    {
+      "start": 849.94,
+      "end": 850.44,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Oh,"
+    },
+    {
+      "start": 850.8200300000001,
+      "end": 854.6000000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "the hat man survives explosions, gunfire, and faith based bridge illusions."
+    },
+    {
+      "start": 854.8050000000001,
+      "end": 855.3050000000001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "What?"
+    },
+    {
+      "start": 856.6600000000001,
+      "end": 859.88003,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "He gets across a bridge with religious it's a long story."
+    },
+    {
+      "start": 859.3650000000001,
+      "end": 859.8650000000001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Sorry."
+    },
+    {
+      "start": 860.3400500000001,
+      "end": 861.2400000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay. Episode"
+    },
+    {
+      "start": 861.6200000000001,
+      "end": 862.1200000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "four,"
+    },
+    {
+      "start": 862.6249700000001,
+      "end": 864.1650000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "the refrigerator heresy."
+    },
+    {
+      "start": 864.6249700000001,
+      "end": 866.5649700000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Our role here is mostly observational."
+    },
+    {
+      "start": 867.345,
+      "end": 873.845,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Humans have discovered nuclear weapons. We conclude that snakes are no longer the most dangerous thing on Earth, which is both vindicating and depressing."
+    },
+    {
+      "start": 874.3850000000001,
+      "end": 879.8700000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "We watch as he survives impossible events again, confirming our theory. He is not brave. He is cursed."
+    },
+    {
+      "start": 880.4900000000001,
+      "end": 885.71,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "That is Indiana Jones from the point of view of all the snakes in all of the collective Indiana Jones movies."
+    },
+    {
+      "start": 886.195,
+      "end": 886.695,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Okay."
+    },
+    {
+      "start": 887.1550000000001,
+      "end": 890.9350000000001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Can I eye bleach from watching if someone's face get bleached off?"
+    },
+    {
+      "start": 891.0250500000001,
+      "end": 893.7650400000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Yes. Should we wrap up our episode and go get the eye bleach?"
+    },
+    {
+      "start": 894.2499700000001,
+      "end": 896.1899700000001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Yeah. I want some eye bleach."
+    },
+    {
+      "start": 895.6650000000001,
+      "end": 905.2850000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Okay. This has been random neural firings. I genuinely don't remember all the things we talked about, but I think it started with a Habsburg and ended with Indiana Jones from snake POV."
+    },
+    {
+      "start": 906.4800000000001,
+      "end": 907.3000000000001,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Pretty random."
+    },
+    {
+      "start": 907.9750000000001,
+      "end": 909.4350000000001,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Mom, where's the eye bleach?"
+    },
+    {
+      "start": 911.93954,
+      "end": 913.3995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "And I'm Dan, AKA"
+    },
+    {
+      "start": 914.0195,
+      "end": 914.5195,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "dad."
+    },
+    {
+      "start": 914.3394999999999,
+      "end": 915.7995,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "This is Renton Monroe firings,"
+    },
+    {
+      "start": 916.1795,
+      "end": 917.7194999999999,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "and we need some eye bleach."
+    },
+    {
+      "start": 919.2995,
+      "end": 919.7995,
+      "speaker_id": "0",
+      "speaker": "Dan",
+      "text": "Bye."
+    },
+    {
+      "start": 920.0195,
+      "end": 920.5195,
+      "speaker_id": "1",
+      "speaker": "AJ",
+      "text": "Bye."
+    }
+  ]
+}

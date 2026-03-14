@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+rapidfuzz
+pillow
+fastapi
+uvicorn[standard]
+python-multipart
+boto3

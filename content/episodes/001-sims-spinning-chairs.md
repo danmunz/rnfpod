@@ -3,48 +3,43 @@ number: 1
 title: "Sims, Spinning Chairs, and the Joy of Randomness"
 slug: "sims-spinning-chairs"
 date: "2026-01-04"
-duration: "9:43"
+duration: "9:57"
 published: true
-audioUrl: "episodes/ep001.mp3"
+audioUrl: "audio/ep001.mp3"
 topics:
   - gaming
-  - ADHD
   - psychology
+  - ADHD
 gradient: "from-violet-600 to-pink-600"
 annotation: "Our first episode! 🎉"
 segments:
-  - title: "Intro & The Spinning Chair Problem"
+  - title: "Welcome to Our Podcast"
     timestamp: 0
-    description: "We try to explain what this podcast is, but the chairs have other ideas."
-  - title: "Why The Sims is Basically Life"
-    timestamp: 342
-    description: "AJ breaks down her character creation philosophy and why randomness matters."
-    accent: "cyan"
-  - title: "Chaos vs. Control in Games"
-    timestamp: 891
-    description: "Do we want to control everything, or is unpredictability the whole point?"
-    accent: "amber"
-  - title: "Personality Types & Maslow"
-    timestamp: 1456
-    description: "Somehow we end up discussing psychology. This tracks."
-    accent: "emerald"
-  - title: "The Spinning Chair Incident"
-    timestamp: 2103
-    description: "Things get derailed. Literally spinning."
-  - title: "Wrap-Up & What's Next"
-    timestamp: 2398
-    description: "We reflect on randomness, patterns, and what we learned (maybe)."
+    description: "We introduce ourselves and our aim to start this podcast journey together."
+  - title: "Learning About The Sims"
+    timestamp: 17
+    description: "Dan attempts to grasp the basics of The Sims 4, guided by AJ's expertise."
+  - title: "Character Traits and Chaos"
+    timestamp: 40
+    description: "AJ explains how Sims' personalities are shaped by traits, leading to amusing discussions about gameplay."
+  - title: "The Dark Side of Sims"
+    timestamp: 195
+    description: "We explore the more macabre aspects of the game, including how Sims can meet their demise."
+  - title: "Cheats and Cursed Creations"
+    timestamp: 255
+    description: "AJ reveals her favorite cheats and the creative chaos they can unleash in the game."
+  - title: "Elevator Pitch for The Sims"
+    timestamp: 523
+    description: "We wrap up with a playful elevator pitch on why everyone should give The Sims a try."
 resources:
   - title: "The Sims 4"
-    url: "https://www.ea.com/games/the-sims/the-sims-4"
+    url: "https://en.wikipedia.org/wiki/The_Sims_4"
   - title: "Maslow's Hierarchy of Needs"
-    url: "https://www.simplypsychology.org/maslow.html"
-  - title: "Game Design & Randomness"
-    url: "https://www.gamedeveloper.com"
+    url: "https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs"
+  - title: "Fugu"
+    url: "https://en.wikipedia.org/wiki/Fugu"
 ---
 
-In our very first episode, we sit down (on spinning chairs, which becomes relevant later) to talk about The Sims. What starts as AJ explaining her character-building strategy quickly spirals into discussions about free will, personality types, and whether randomness makes games more fun or just more frustrating.
+In our inaugural episode, we dive into the world of The Sims 4, exploring its quirky personalities and the chaos of gameplay. AJ shares her insights on character traits, from the whimsical to the downright bizarre, while Dan attempts to keep up with the intricacies of this beloved simulation game.
 
-Along the way, we discover that spinning chairs are the enemy of focused conversation, debate the merits of chaotic vs. planned gameplay, and somehow end up talking about Maslow's hierarchy of needs.
-
-This is what happens when an 11-year-old and her dad try to have a serious conversation. Spoiler: it's never serious for long.
+We also touch on our shared ADHD, the joys of gaming, and the unexpected parallels between Sims' needs and human behavior. It's a lighthearted conversation that meanders through gaming mechanics, personal anecdotes, and the occasional philosophical musing about life, all while sitting on spinning chairs.

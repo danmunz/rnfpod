@@ -1,0 +1,52 @@
+{
+  "episode_title": "Harsh Winds, Beautiful Waterfalls, and Big Eared Men",
+  "summary": "In this episode, we dive into the peculiar life of Charles II of Spain, exploring his unusual features and the historical context behind them. The conversation meanders through the challenges of recreating him in The Sims, leading to a humorous yet insightful discussion about genetics and royal lineage.\n\nWe also take a detour into the Oregon Trail, where we ponder the absurdities of historical diseases and the potential for a bizarre video game crossover. This episode captures the essence of our random neural firings, blending history, gaming, and a touch of whimsy.",
+  "segments": [
+    {
+      "title": "Sims and Spanish Kings",
+      "start": 26,
+      "end": 56,
+      "one_sentence": "We discuss the challenges of recreating Charles II of Spain in The Sims, highlighting his unusual appearance and the historical implications."
+    },
+    {
+      "title": "A Royal Autopsy",
+      "start": 156,
+      "end": 220,
+      "one_sentence": "An exploration of Charles II's autopsy reveals some shocking details about his health and lineage."
+    },
+    {
+      "title": "Oregon Trail Shenanigans",
+      "start": 486,
+      "end": 552,
+      "one_sentence": "We reminisce about the Oregon Trail video game, discussing its gruesome history and imagining a surreal twist on the classic."
+    },
+    {
+      "title": "Indiana Jones from the Snake POV",
+      "start": 671,
+      "end": 885,
+      "one_sentence": "A creative reimagining of the Indiana Jones series unfolds, narrated from the perspective of snakes, leading to some unexpected humor."
+    }
+  ],
+  "highlights": [
+    "The absurdity of trying to recreate a historically inbred king in a video game.",
+    "A peppercorn-sized heart and gangrenous intestines—what a way to go.",
+    "Imagining the Oregon Trail as a bizarre survival game with player-versus-player elements."
+  ],
+  "mentions": [
+    {
+      "label": "Charles II of Spain",
+      "type": "Person",
+      "context": "A historical figure known for his extreme physical features due to inbreeding."
+    },
+    {
+      "label": "Oregon Trail",
+      "type": "Game",
+      "context": "A classic video game that humorously depicts the hardships of pioneer life."
+    },
+    {
+      "label": "Indiana Jones",
+      "type": "Movie",
+      "context": "A film series that we humorously reimagined from the perspective of snakes."
+    }
+  ]
+}

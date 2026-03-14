@@ -11,5 +11,5 @@ export const podcastConfig = {
   imageUrl: '', // TODO: add podcast artwork URL (3000x3000 recommended)
   siteUrl: 'https://danmunz.github.io/rnfpod',
   /** Base URL for media files on Cloudflare R2 (no trailing slash) */
-  mediaBaseUrl: '', // TODO: set to your R2 public URL, e.g. https://media.randomneuralfirings.com
+  mediaBaseUrl: 'https://pub-979fb0a721b04dcba18ac2257d240f1c.r2.dev', // TODO: set to your R2 public URL, e.g. https://media.randomneuralfirings.com
 };

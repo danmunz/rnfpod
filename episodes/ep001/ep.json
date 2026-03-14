@@ -1,0 +1,23 @@
+{
+  "episode_id": "ep001",
+  "recorded_date": "2026-01-04",
+  "title": "",
+  "people": [
+    {
+      "id": "SPEAKER_00",
+      "name": "Dad"
+    },
+    {
+      "id": "SPEAKER_01",
+      "name": "Daughter"
+    }
+  ],
+  "brand": {
+    "podcast_name": "Random Neural Firings",
+    "palette_file": "assets/palette/palette.json",
+    "cover_template": "assets/templates/cover_template.png",
+    "cover_mask": "assets/templates/cover_mask.png",
+    "font_regular": "assets/templates/fonts/Inter-Regular.ttf",
+    "font_bold": "assets/templates/fonts/Inter-Bold.ttf"
+  }
+}

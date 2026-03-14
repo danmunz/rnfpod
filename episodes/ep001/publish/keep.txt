@@ -1,0 +1,27 @@
+file '/Users/danmunz/Library/Mobile Documents/com~apple~CloudDocs/randomneuralfirings/episodes/ep001/raw/ep001.wav'
+inpoint 0.000
+outpoint 148.065
+file '/Users/danmunz/Library/Mobile Documents/com~apple~CloudDocs/randomneuralfirings/episodes/ep001/raw/ep001.wav'
+inpoint 150.545
+outpoint 193.640
+file '/Users/danmunz/Library/Mobile Documents/com~apple~CloudDocs/randomneuralfirings/episodes/ep001/raw/ep001.wav'
+inpoint 196.740
+outpoint 340.970
+file '/Users/danmunz/Library/Mobile Documents/com~apple~CloudDocs/randomneuralfirings/episodes/ep001/raw/ep001.wav'
+inpoint 343.590
+outpoint 488.475
+file '/Users/danmunz/Library/Mobile Documents/com~apple~CloudDocs/randomneuralfirings/episodes/ep001/raw/ep001.wav'
+inpoint 490.535
+outpoint 495.995
+file '/Users/danmunz/Library/Mobile Documents/com~apple~CloudDocs/randomneuralfirings/episodes/ep001/raw/ep001.wav'
+inpoint 498.295
+outpoint 500.075
+file '/Users/danmunz/Library/Mobile Documents/com~apple~CloudDocs/randomneuralfirings/episodes/ep001/raw/ep001.wav'
+inpoint 503.560
+outpoint 528.225
+file '/Users/danmunz/Library/Mobile Documents/com~apple~CloudDocs/randomneuralfirings/episodes/ep001/raw/ep001.wav'
+inpoint 530.650
+outpoint 552.535
+file '/Users/danmunz/Library/Mobile Documents/com~apple~CloudDocs/randomneuralfirings/episodes/ep001/raw/ep001.wav'
+inpoint 554.755
+outpoint 617.557
