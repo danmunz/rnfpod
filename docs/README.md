@@ -48,15 +48,21 @@ This documentation is organized into focused guides:
 
 ### File Structure
 ```
-/src/app/
-  App.tsx                          # Main app with routing
-  /components/
-    TwilightThinkingSite.tsx       # Homepage (light/hybrid)
-    TwilightThinkingSiteDark.tsx   # Homepage (dark variant)
-    EpisodePage.tsx                # Single episode detail
-    BrowseEpisodesPage.tsx         # Episode listing
-    StyleGuidePage.tsx             # Visual design system docs
-    BrandGuide.tsx                 # Brand identity docs
+src/
+  app/
+    App.tsx                          # Main app with routing
+    pages/                           # Route-level pages
+      HomePage.tsx                   # Hero, latest episode, about
+      BrowseEpisodesPage.tsx         # Episode listing with search/filter
+      EpisodePage.tsx                # Single episode detail + player
+    components/                      # Shared UI components
+    contexts/                        # PlayerContext (global audio state)
+    hooks/                           # useEpisodes, useEpisode, etc.
+    layouts/                         # SiteLayout
+    lib/                             # podcast-config.ts
+    types/                           # TypeScript interfaces
+content/
+  episodes/                          # Episode markdown files
 ```
 
 ## Implementation Checklist
@@ -84,10 +90,9 @@ See `theme` prop usage in component files.
 
 ## Getting Help
 
-- Review the **[ACCENT-STRATEGY.md](./ACCENT-STRATEGY.md)** file first - it's the most critical
+- Review the **[ACCENT-STRATEGY.md](./ACCENT-STRATEGY.md)** file first — it's the most critical
 - Check **[COMPONENTS.md](./COMPONENTS.md)** for copy-paste code examples
-- Refer to **[StyleGuidePage.tsx](../src/app/components/StyleGuidePage.tsx)** for visual reference
-- See existing pages for real-world implementation examples
+- See existing pages (`src/app/pages/`) for real-world implementation examples
 
 ## Critical Rule
 

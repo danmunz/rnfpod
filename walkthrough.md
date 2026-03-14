@@ -1,14 +1,16 @@
 # Walkthrough: audio file to published episode (macOS)
 
-This guide walks you from a recorded WAV file to a published episode using the tools in this repo.
-It assumes you are on macOS and running from the repo root (not a subfolder like `work/`).
+This guide walks you from a recorded WAV file to a published episode using the command-line tools in this repo.
+It assumes you are on macOS and running from the repo root.
+
+> **Tip**: You can also use the **RNF Studio** web UI instead of the command line. Run `make studio` and open [localhost:5174](http://localhost:5174) for a visual workflow that wraps all these steps.
 
 ## 0) One-time setup
 
 ### 0.0 Go to the repo root
 
 ```bash
-cd /Users/danmunz/Library/Mobile Documents/com~apple~CloudDocs/randomneuralfirings
+cd /path/to/rnfpod
 ```
 
 Success sign:
@@ -85,7 +87,7 @@ Failure sign:
 Every time you open a new terminal, activate the virtual environment and load your API keys:
 
 ```bash
-cd /Users/danmunz/Library/Mobile\ Documents/com~apple~CloudDocs/randomneuralfirings
+cd /path/to/rnfpod
 source .venv/bin/activate
 set -a; source config.env; set +a
 ```
@@ -419,22 +421,27 @@ Success sign:
 Failure sign:
 - `Missing cover_bg.png` means you did not provide the background image.
 
-## 16) Publish to the site folder
+## 16) Publish to the website
+
+This step uploads the MP3 to Cloudflare R2 and generates an episode markdown file for the website:
 
 ```bash
 python3 -m tools.80_publish_to_site --episode ep001
 ```
 
-Copies:
-- `episodes/ep001/publish/ep001.mp3` -> `site/src/assets/audio/ep001.mp3`
-- `episodes/ep001/publish/ep001.png` -> `site/src/assets/covers/ep001.png`
-- `episodes/ep001/publish/ep001.md` -> `site/src/episodes/ep001.md`
+What it does:
+- Uploads `episodes/ep001/publish/ep001.mp3` to R2 at `audio/ep001.mp3`
+- Generates `content/episodes/001-*.md` with frontmatter from `episode_package.json`
 
-Success sign:
-- Files exist in the `site/src/` folders.
+After publishing, rebuild and deploy:
 
-Failure sign:
-- Missing input files means earlier steps failed.
+```bash
+npm run build
+git add -A && git commit -m "Publish ep001"
+git push origin main
+```
+
+GitHub Actions will deploy the updated site automatically.
 
 ## 17) One-command run
 
@@ -459,7 +466,7 @@ Approve the cutlist, then re-run the same command to continue through audio rend
 
 - Missing API keys: run `source config.env` and re-check `echo $DEEPGRAM_API_KEY`.
 - Python import errors: re-run `python3 -m pip install -r requirements.txt` in the venv.
-- `No module named 'tools'`: you are not in the repo root. Run `cd .../randomneuralfirings`.
+- `No module named 'tools'`: you are not in the repo root.
 - Audio not found: confirm `episodes/<ep>/raw/<ep>.wav` exists.
 - LLM JSON errors: re-run the notes step and inspect the raw output in `transcript_llm.txt`.
 - Transcript has duplicate segments (both speakers saying same thing): audio bleed is too strong.

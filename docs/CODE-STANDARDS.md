@@ -5,23 +5,41 @@
 ```
 /src/
   /app/
-    App.tsx                          # Main app with theme switching
-    /components/
-      TwilightThinkingSite.tsx       # Homepage (light/hybrid themes)
-      TwilightThinkingSiteDark.tsx   # Homepage (dark theme)
-      EpisodePage.tsx                # Single episode detail page
-      BrowseEpisodesPage.tsx         # Episode listing/archive
-      StyleGuidePage.tsx             # Visual design system documentation
-      BrandGuide.tsx                 # Brand identity guide
-      /ui/                           # Reusable UI components (shadcn)
-        button.tsx
-        card.tsx
-        ...
+    App.tsx                          # Main app with routing (HashRouter)
+    /pages/
+      HomePage.tsx                   # Landing page: hero, latest episode, about
+      BrowseEpisodesPage.tsx         # Episode listing with search/filter
+      EpisodePage.tsx                # Single episode detail + player
+    /components/                     # Shared UI components
+      Header.tsx
+      Footer.tsx
+      MiniPlayer.tsx
+      EpisodeCard.tsx
+      ...
+    /contexts/
+      PlayerContext.tsx              # Global audio state + OP3 URL wrapping
+    /hooks/
+      useEpisodes.ts                # Load episodes from generated JSON
+      useEpisode.ts                 # Single episode by slug
+      useFilteredEpisodes.ts        # Search + topic filtering
+    /layouts/
+      SiteLayout.tsx                # Header + footer + player wrapper
+    /lib/
+      podcast-config.ts             # Podcast metadata + media base URL
+    /types/
+      index.ts                      # Episode, Segment, Resource interfaces
+    /components/ui/                  # shadcn/ui primitives
+      button.tsx
+      card.tsx
+      ...
   /styles/
     fonts.css                        # Font imports
     index.css                        # Global styles
     tailwind.css                     # Tailwind imports
     theme.css                        # CSS variables, theme tokens
+
+/content/
+  /episodes/                         # Episode markdown (the CMS)
 
 /docs/                               # Documentation (you are here!)
   README.md
@@ -78,7 +96,7 @@ Define common types
 
 ```tsx
 type Theme = 'light' | 'dark' | 'hybrid';
-type Page = 'home' | 'episode' | 'browse' | 'styleguide';
+type Page = 'home' | 'episode' | 'browse';
 
 type Episode = {
   number: number;
