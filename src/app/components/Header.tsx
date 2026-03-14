@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Zap, BookOpen, Palette } from 'lucide-react';
+import { Zap } from 'lucide-react';
 
 export function Header() {
   return (
@@ -32,20 +32,6 @@ export function Header() {
             <a href="#subscribe" className="transition hover:text-[#5B21B6]">
               Subscribe
             </a>
-            <Link
-              to="/brand"
-              className="flex items-center gap-1 rounded px-2 transition hover:text-[#5B21B6] focus:outline-none focus:ring-2 focus:ring-[#5B21B6]/50"
-            >
-              <BookOpen className="h-4 w-4" />
-              Brand Guide
-            </Link>
-            <Link
-              to="/styleguide"
-              className="flex items-center gap-1 rounded px-2 transition hover:text-[#5B21B6] focus:outline-none focus:ring-2 focus:ring-[#5B21B6]/50"
-            >
-              <Palette className="h-4 w-4" />
-              Style Guide
-            </Link>
           </nav>
         </div>
       </div>
