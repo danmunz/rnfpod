@@ -18,8 +18,9 @@ import {
   Users
 } from "lucide-react";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
-export function StyleGuidePage({ onNavigateHome }: { onNavigateHome: () => void }) {
+export function StyleGuidePage() {
   const [copiedCode, setCopiedCode] = useState<string | null>(null);
 
   const copyToClipboard = (code: string, id: string) => {
@@ -152,13 +153,13 @@ export function StyleGuidePage({ onNavigateHome }: { onNavigateHome: () => void 
         <div className="absolute bottom-0 right-1/3 h-80 w-80 animate-pulse rounded-full bg-gradient-to-br from-[#EC4899]/10 to-transparent blur-3xl" />
 
         <div className="relative z-10 mx-auto max-w-6xl">
-          <button
-            onClick={onNavigateHome}
+          <Link
+            to="/"
             className="mb-6 flex items-center gap-2 rounded-full border-2 border-white/30 bg-white/10 px-4 py-2 text-sm font-bold text-white backdrop-blur-sm transition hover:bg-white/20 focus:outline-none focus:ring-4 focus:ring-white/50"
           >
             <ArrowLeft className="h-4 w-4" />
             Back to Homepage
-          </button>
+          </Link>
           
           <div className="flex items-center gap-4 mb-6">
             <div className="relative flex h-16 w-16 items-center justify-center rounded-full bg-gradient-to-br from-white/20 to-white/5 backdrop-blur-sm border-2 border-white/30">

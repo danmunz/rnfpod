@@ -1,0 +1,46 @@
+backend:
+  name: github
+  repo: danmunz/rnfpod
+  branch: main
+
+media_folder: "content/media"
+public_folder: "/content/media"
+
+collections:
+  - name: "episodes"
+    label: "Episodes"
+    folder: "content/episodes"
+    create: true
+    slug: "{{fields.number | padStart(3, '0')}}-{{fields.slug}}"
+    extension: "md"
+    fields:
+      - { label: "Episode Number", name: "number", widget: "number", value_type: "int" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string", pattern: ["^[a-z0-9-]+$", "Lowercase letters, numbers, and hyphens only"] }
+      - { label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Duration", name: "duration", widget: "string", pattern: ["^\\d+:\\d{2}$", "Format: MM:SS or H:MM:SS"] }
+      - { label: "Published", name: "published", widget: "boolean", default: true }
+      - { label: "Audio File", name: "audioUrl", widget: "string", hint: "Path relative to media bucket, e.g. episodes/ep001.mp3" }
+      - label: "Topics"
+        name: "topics"
+        widget: "list"
+        field: { label: "Topic", name: "topic", widget: "string" }
+      - { label: "Gradient", name: "gradient", widget: "string", default: "from-purple-600 to-fuchsia-600", hint: "Tailwind gradient classes" }
+      - { label: "Annotation", name: "annotation", widget: "string", required: false, hint: "Short fun note displayed on the card" }
+      - label: "Segments"
+        name: "segments"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Timestamp (seconds)", name: "timestamp", widget: "number", value_type: "int" }
+          - { label: "Description", name: "description", widget: "string", required: false }
+          - { label: "Accent Color", name: "accent", widget: "select", required: false, options: ["cyan", "amber", "emerald", "pink", "blue"] }
+      - label: "Resources"
+        name: "resources"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "URL", name: "url", widget: "string" }
+      - { label: "Show Notes", name: "body", widget: "markdown" }

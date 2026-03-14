@@ -1,7 +1,8 @@
 import { Play, Sparkles, ArrowRight, Check, Copy, ArrowLeft, X } from "lucide-react";
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
-export function BrandGuide({ onNavigateHome }: { onNavigateHome: () => void }) {
+export function BrandGuide() {
   const [copiedCode, setCopiedCode] = useState<string | null>(null);
 
   const copyToClipboard = (code: string, id: string) => {
@@ -37,13 +38,13 @@ export function BrandGuide({ onNavigateHome }: { onNavigateHome: () => void }) {
       {/* Header */}
       <header className="border-b-2 border-purple-200 bg-gradient-to-r from-[#4C1D95] to-[#5B21B6] px-6 py-12 text-white">
         <div className="mx-auto max-w-6xl">
-          <button
-            onClick={onNavigateHome}
+          <Link
+            to="/"
             className="mb-6 flex items-center gap-2 rounded-full border-2 border-white/30 bg-white/10 px-4 py-2 text-sm font-bold text-white backdrop-blur-sm transition hover:bg-white/20 focus:outline-none focus:ring-4 focus:ring-white/50"
           >
             <ArrowLeft className="h-4 w-4" />
             Back to Homepage
-          </button>
+          </Link>
           <h1 className="mb-4 font-black text-5xl" style={{ fontFamily: 'Outfit, sans-serif' }}>
             Random Neural Firings
           </h1>
