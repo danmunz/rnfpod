@@ -10,6 +10,7 @@ import {
   Pause,
   X,
   BookOpen,
+  Palette,
 } from "lucide-react";
 import { useState, useEffect } from "react";
 import hostPhoto from "figma:asset/ea66e3976104fc3cb8ba2cad5484171143ccdf08.png";
@@ -22,7 +23,8 @@ export function TwilightThinkingSite({
   onPlayEpisode,
   isPlaying,
   currentEpisode,
-  theme
+  theme,
+  onNavigateToStyleGuide
 }: { 
   onNavigateToBrandGuide: () => void;
   onNavigateToEpisode: () => void;
@@ -31,6 +33,7 @@ export function TwilightThinkingSite({
   isPlaying: boolean;
   currentEpisode: any;
   theme: 'light' | 'dark' | 'hybrid';
+  onNavigateToStyleGuide?: () => void;
 }) {
   // If dark theme, render dark version
   if (theme === 'dark') {
@@ -231,6 +234,15 @@ export function TwilightThinkingSite({
                 <BookOpen className="h-4 w-4" />
                 Brand Guide
               </button>
+              {onNavigateToStyleGuide && (
+                <button
+                  onClick={onNavigateToStyleGuide}
+                  className="flex items-center gap-1 transition hover:text-[#5B21B6] focus:outline-none focus:ring-2 focus:ring-[#5B21B6]/50 rounded px-2"
+                >
+                  <Palette className="h-4 w-4" />
+                  Style Guide
+                </button>
+              )}
             </nav>
           </div>
         </div>

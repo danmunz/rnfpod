@@ -2,10 +2,11 @@ import { TwilightThinkingSite } from './components/TwilightThinkingSite';
 import { BrandGuide } from './components/BrandGuide';
 import { EpisodePage } from './components/EpisodePage';
 import { BrowseEpisodesPage } from './components/BrowseEpisodesPage';
+import { StyleGuidePage } from './components/StyleGuidePage';
 import { useState } from 'react';
 import { Sun, Moon, Palette } from 'lucide-react';
 
-type Page = 'home' | 'brand-guide' | 'episode' | 'browse';
+type Page = 'home' | 'brand-guide' | 'episode' | 'browse' | 'styleguide';
 type Theme = 'light' | 'dark' | 'hybrid';
 
 export default function App() {
@@ -107,7 +108,11 @@ export default function App() {
           isPlaying={isPlaying}
           currentEpisode={currentEpisode}
           theme={theme}
+          onNavigateToStyleGuide={() => setCurrentPage('styleguide')}
         />
+      )}
+      {currentPage === 'styleguide' && (
+        <StyleGuidePage onNavigateHome={() => setCurrentPage('home')} />
       )}
     </div>
   );
