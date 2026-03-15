@@ -27,12 +27,6 @@ export function Footer() {
               Listen
             </h4>
             <div className="space-y-2 text-sm">
-              <a href="#" className="block text-purple-200 transition hover:text-white">
-                Spotify
-              </a>
-              <a href="#" className="block text-purple-200 transition hover:text-white">
-                Apple Podcasts
-              </a>
               <Link to="/episodes" className="block text-purple-200 transition hover:text-white">
                 Browse Episodes
               </Link>
@@ -46,12 +40,12 @@ export function Footer() {
               Connect
             </h4>
             <div className="space-y-2 text-sm">
-              <a href="#" className="block text-purple-200 transition hover:text-white">
-                Email Us
-              </a>
-              <a href="#" className="block text-purple-200 transition hover:text-white">
-                Suggest a Topic
-              </a>
+              <span className="block cursor-default text-purple-400">
+                Email Us <span className="font-mono text-[10px]">· soon</span>
+              </span>
+              <span className="block cursor-default text-purple-400">
+                Suggest a Topic <span className="font-mono text-[10px]">· soon</span>
+              </span>
             </div>
           </div>
         </div>

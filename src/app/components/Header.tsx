@@ -1,7 +1,19 @@
-import { Link } from 'react-router-dom';
+import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { Zap } from 'lucide-react';
 
 export function Header() {
+  const navigate = useNavigate();
+  const location = useLocation();
+
+  const scrollToAbout = () => {
+    if (location.pathname !== '/') {
+      navigate('/');
+      setTimeout(() => document.getElementById('about')?.scrollIntoView({ behavior: 'smooth' }), 150);
+    } else {
+      document.getElementById('about')?.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
   return (
     <header className="relative left-0 right-0 top-0 z-50 py-3">
       <div className="mx-auto max-w-7xl px-6">
@@ -26,10 +38,10 @@ export function Header() {
             <Link to="/episodes" className="transition hover:text-[#5B21B6]">
               Listen
             </Link>
-            <a href="#about" className="transition hover:text-[#5B21B6]">
+            <button onClick={scrollToAbout} className="transition hover:text-[#5B21B6]">
               About
-            </a>
-            <a href="#subscribe" className="transition hover:text-[#5B21B6]">
+            </button>
+            <a href="./feed.xml" target="_blank" rel="noopener noreferrer" className="transition hover:text-[#5B21B6]">
               Subscribe
             </a>
           </nav>

@@ -4,8 +4,6 @@ import { SiteLayout } from './layouts/SiteLayout';
 import { HomePage } from './pages/HomePage';
 import { EpisodePage } from './pages/EpisodePage';
 import { BrowseEpisodesPage } from './pages/BrowseEpisodesPage';
-import { StyleGuidePage } from './components/StyleGuidePage';
-import { BrandGuide } from './components/BrandGuide';
 
 export default function App() {
   return (
@@ -16,8 +14,6 @@ export default function App() {
             <Route path="/" element={<HomePage />} />
             <Route path="/episodes" element={<BrowseEpisodesPage />} />
             <Route path="/episodes/:slug" element={<EpisodePage />} />
-            <Route path="/styleguide" element={<StyleGuidePage />} />
-            <Route path="/brand" element={<BrandGuide />} />
           </Route>
         </Routes>
       </PlayerProvider>
